@@ -1,0 +1,39 @@
+_repo: Mary-Louise-Solves-a-Mystery_24578
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Cooke, John Estes
+    - Metcalf, Suzanne
+    - Fitzgerald, Capt. Hugh
+    - Baum, Lyman Frank
+    - Bancroft, Laura
+    - Fitzgerald, Hugh
+    - Akers, Floyd
+    - Van Dyne, Edith
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2008-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burrows, Mary Louise (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PZ'
+- !lcsh 'Teenage girls -- Juvenile fiction'
+title: Mary Louise Solves a Mystery
+url: http://www.gutenberg.org/ebooks/24578
