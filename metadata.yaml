@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24578#Mary-Louise-Solves-a-Mystery
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2008-02-11'
 gutenberg_type: Text
